@@ -1,1 +1,1 @@
-# University-Project--Manhatten-House-Prices-
+# University-Project--Manhattan-House-Prices-
